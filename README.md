@@ -1,2 +1,2 @@
 # Mathematics-for-Machine-Learning
-My programming assignments on Maths for linear algebra course by Imperial College London
+My programming assignments on Maths for Machine Learning course by Imperial College London
